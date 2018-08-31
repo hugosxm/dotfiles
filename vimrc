@@ -18,7 +18,6 @@ call vundle#begin()
 	Plugin 'edkolev/promptline.vim'
 	Plugin 'altercation/vim-colors-solarized'
 	Plugin 'ervandew/supertab'
-	Plugin 'koron/nyancat-vim'
 
 call vundle#end() 
 
